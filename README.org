@@ -16,6 +16,3 @@ And probably a lot more. Let's talk.
 
 ** Contact
 [[https://www.youtube.com/watch?v=wj5UJ7vdVIw][💬]] If you need me, I'm on my mobile.'
-
-In the realm of software, I've woven intricate threads of systems integration, harmonizing colossal, mission-critical machinery. I'm also well-versed in the art of Unix system mastery, specializing in the enchanting realms of Linux and IBM AIX.
-
