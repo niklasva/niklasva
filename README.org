@@ -1,8 +1,9 @@
-** Hello 🙋‍♂️
+#+html:<h1 align="center">🙋‍♂ Hello</h1>
 🔐 Present mission: Embedded locksmithing at [[http://parakey.co][@parakey.co]]
 
 🧙‍♂️ Previously: Senior software wrangler at [[http://imi.se][@imi.se]]
 
+
 Most interested in high-performance, low-level code, but I also have extensive experience in web development and database optimization.
 ------
-Emacs over vim, spaces over tabs.
+🛠️ Emacs over vim, spaces over tabs
