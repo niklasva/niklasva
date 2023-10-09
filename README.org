@@ -3,11 +3,8 @@
 🔐 Present mission: Embedded locksmithing at [[http://parakey.co][@parakey.co]]
 
 🧙‍♂️ Previously: Senior software wrangler at [[http://imi.se][@imi.se]]
-
-
-Most interested in high-performance, low-level code, but I also have extensive experience in web development and database optimization.
-
 ----------
-🛠️ Emacs enthusiast
+Most enthusiastic about high-performance, low-level code, but I also have extensive experience in web development and database optimization.
+----------
 
-🪐 Spaces > tabs
+✨ My interests are Emacs and space-indentation.
