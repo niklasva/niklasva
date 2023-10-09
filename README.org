@@ -9,5 +9,5 @@ I am most enthusiastic about high-performance, low-level code, but I also have e
 
 My interests are Emacs and space-indentation.
 
-*** Contact
+** Contact
 If you need me, I'm on my mobile[[https://www.youtube.com/watch?v=wj5UJ7vdVIw][.]]
