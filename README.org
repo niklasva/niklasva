@@ -3,9 +3,10 @@
 🔭 I'm Niklas. I am a software engineer currently residing in Gothenburg, Sweden.
 
 🔐 Present mission: Embedded locksmithing at [[http://parakey.co][@parakey.co]]\\
-🧙‍♂️ Previously: Senior software wrangler at [[http://imi.se][@imi.se]]
+🧙‍♂️ Previously: Senior software wrangler and integration guru at [[http://imi.se][@imi.se]]
 
-I am most enthusiastic about high-performance, low-level code, but I also have experience in full-stack web development and database optimization. And probably a bunch of other things. Ask me.
+I am most enthusiastic about high-performance, low-level code, but I also have experience in full-stack web development and database optimization. I have also developed software for customized integrations, fine-tuning the symphonies between large, critical systems.
+In addition, I have also done work in Unix system management and configuration, specializing in both Linux and IBM AIX. 
 
 My hobbies are Emacs and just kickin it.
 
