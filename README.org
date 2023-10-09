@@ -1,10 +1,13 @@
 #+html:<h1 align="center">🌱 Hello</h1>
+** About me
+🔭 I'm Niklas. I am a software engineer currently residing in Gothenburg, Sweden.
 
-🔐 Present mission: Embedded locksmithing at [[http://parakey.co][@parakey.co]]
-
+🔐 Present mission: Embedded locksmithing at [[http://parakey.co][@parakey.co]]\\
 🧙‍♂️ Previously: Senior software wrangler at [[http://imi.se][@imi.se]]
-----------
-Most enthusiastic about high-performance, low-level code, but I also have extensive experience in web development and database optimization.
-----------
 
-✨ My interests are Emacs and space-indentation.
+I am most enthusiastic about high-performance, low-level code, but I also have extensive experience in web development and database optimization.
+
+My interests are Emacs and space-indentation.
+
+*** Contact
+If you need me, I'm on my mobile[[https://www.youtube.com/watch?v=wj5UJ7vdVIw][.]]
