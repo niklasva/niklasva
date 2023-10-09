@@ -10,6 +10,4 @@ Most interested in high-performance, low-level code, but I also have extensive e
 ----------
 🛠️ Emacs enthusiast
 
-🪐 Spaces over tabs
-
-\\
+🪐 Spaces > tabs
