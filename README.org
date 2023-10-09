@@ -15,4 +15,4 @@ And probably a lot more. Let's talk.
 [[https://github.com/niklasva/dotfiles/blob/main/emacs/.config/emacs/config.org][🛀]] My hobbies are Emacs and just kickin it. ✨
 
 ** Contact
-[[https://www.youtube.com/watch?v=wj5UJ7vdVIw][💬]] If you need me, I'm on my mobile.'
+[[https://www.youtube.com/watch?v=wj5UJ7vdVIw][💬]] If you need me, I'm on my mobile.
