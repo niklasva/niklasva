@@ -8,7 +8,7 @@
 I am most enthusiastic about high-performance, low-level code, but I also have experience in full-stack web development and database optimization. I have also developed software for customized integrations, fine-tuning the symphonies between large, critical systems.
 In addition, I have also done work in Unix system management and configuration, specializing in both Linux and IBM AIX. 
 
-My hobbies are Emacs and just kickin it.
+[[https://github.com/niklasva/dotfiles/blob/main/emacs/.config/emacs/config.org][✨]] My hobbies are Emacs and just kickin it. 👒
 
 ** Contact
 If you need me, I'm on my mobile[[https://www.youtube.com/watch?v=wj5UJ7vdVIw][.]]
