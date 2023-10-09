@@ -5,7 +5,7 @@
 🔐 Present mission: Embedded locksmithing at [[http://parakey.co][@parakey.co]]\\
 🧙‍♂️ Previously: Senior software wrangler at [[http://imi.se][@imi.se]]
 
-I am most enthusiastic about high-performance, low-level code, but I also have experience in full-stack web development and database optimization.
+I am most enthusiastic about high-performance, low-level code, but I also have experience in full-stack web development and database optimization. And probably a bunch of other things. Ask me.
 
 My hobbies are Emacs and just kickin it.
 
