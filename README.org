@@ -1,6 +1,8 @@
-
+* About me
 🔐 Present mission: Embedded locksmithing at [[http://parakey.co][@parakey.co]]
 
 🧙‍♂️ Previously: Wearing hats on both ends at [[http://imi.se][@imi.se]]
------
-🌱  Emacs enthusiast, and I believe spaces are the way to go, not tabs.
+------
+🌱 Emacs > Vi.
+
+🪐 Spaces > Tabs.
