@@ -8,7 +8,7 @@
 I am most enthusiastic about high-performance, low-level code, but I also have experience in full-stack web development and database optimization.
 
 I have also specialized in development of integration software, harmonizing colossal, mission-critical systems.
-In addition to this, I have also done work in Unix system management and configuration, specializing in both Linux and IBM AIX. 
+In addition to this, I have also done work in Unix system management and configuration, focusing on Linux and IBM AIX. 
 
 And probably a lot more. Let's talk.
 
