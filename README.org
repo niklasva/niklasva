@@ -6,11 +6,10 @@
 🧙‍♂️ Previously: Senior software wrangler and integration guru at [[http://imi.se][@imi.se]]
 
 #+html:<details>
-#+html:<summary><b>Experience</b></summary>
-I am most enthusiastic about high-performance, low-level code, but I also have experience in full-stack web development and database optimization.
+#+html:<summary><b>More</b></summary>
+I am most enthusiastic about high-performance, low-level code, but I also have experience in software integration and full-stack web development.
 
-I have also specialized in development of integration software, harmonizing colossal, mission-critical systems.
-In addition to this, I have also done work in Unix system management and configuration, focusing on Linux and IBM AIX.
+I have also worked in database optimization, primarily with Oracle databases, and Unix system management and configuration focusing on Linux and IBM AIX.
 
 [[https://github.com/niklasva/dotfiles/blob/main/emacs/.config/emacs/config.org][🛀]] My hobbies are Emacs and just kickin it. ✨
 #+html:</details>
