@@ -7,7 +7,7 @@
 
 #+html:<details>
 #+html:<summary><b>More</b></summary>
-I am most enthusiastic about high-performance, low-level code, but I also have experience in developing applications for software integration between large scale enterprise software using tools such as Apache Camel for stream processing and ActiveMQ for message queueing, and full-stack web development with Java and C based backends with frontends relying on Bootstrap and jQuery.
+I am most enthusiastic about high-performance, low-level code, but I also have experience in developing applications for software integration between large scale enterprise systems using tools such as Apache Camel for stream processing and ActiveMQ for message queueing, and full-stack web development with Java and C based backends with frontends relying on Bootstrap and jQuery.
 
 I have also worked with database optimization, primarily with Oracle databases, and Unix systems management and configuration focusing on Linux and IBM AIX.
 
